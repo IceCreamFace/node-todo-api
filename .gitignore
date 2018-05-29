@@ -1,3 +1,6 @@
 package-lock.json
 playground/
 node_modules/
+.eslintrc.json
+.buildconfig
+
